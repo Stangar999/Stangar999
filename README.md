@@ -1,5 +1,5 @@
 ### Привет!👋 меня зовут Кирилл, я разработчик C++.
-[__Резюме__](https://hh.ru/applicant/resumes/view?resume=a9ac5d23ff0287c9240039ed1f355a63756564)
+Моё [__Резюме.__](https://hh.ru/applicant/resumes/view?resume=a9ac5d23ff0287c9240039ed1f355a63756564)
 
 <!--
 **Stangar999/Stangar999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
