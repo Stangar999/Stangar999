@@ -1,4 +1,4 @@
-### Привет меня зовут Кирилл и я разработчик C++.👋
+### Привет!👋 меня зовут Кирилл я разработчик C++.
 
 <!--
 **Stangar999/Stangar999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
